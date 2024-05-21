@@ -16,6 +16,7 @@ public class CreateContactTest {
 	@Test
 	public void modifyContactTest()
 	{
+		System.out.println("hii nisha");
          System.out.println("Execute modifyContactTest");
 	}
 	
