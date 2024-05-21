@@ -16,6 +16,8 @@ public class CreateOrgTest {
 	public void modifyOrgTest()
 	{
          System.out.println("Execute modifyOrgTest");
+         System.out.println("USERNAME");
+ 		System.out.println("PASSWORD");
 	}
 
 }
